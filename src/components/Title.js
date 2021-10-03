@@ -9,7 +9,7 @@ class Title extends Component {
 
     render() {
         return(
-            <h1 style={StyleSheet.title}>Tienda</h1>
+            <h1 style={styles.title}>Tienda</h1>
         )
     }
 
